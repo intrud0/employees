@@ -1,1 +1,2 @@
 20220215	23:10:06	599fc29d-670a-46d7-8bf6-a44b17d409de	Error: Not allowedby CORS
+20220216	17:17:50	bbed18f7-c7ef-441d-a708-76637b9f9d9b	ReferenceError: decode is not defined
