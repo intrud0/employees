@@ -1,2 +1,7 @@
 20220215	23:10:06	599fc29d-670a-46d7-8bf6-a44b17d409de	Error: Not allowedby CORS
 20220216	17:17:50	bbed18f7-c7ef-441d-a708-76637b9f9d9b	ReferenceError: decode is not defined
+20220217	14:39:17	d83a41f8-56c5-487e-9a03-83ee75c38f09	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
